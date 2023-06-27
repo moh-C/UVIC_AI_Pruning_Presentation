@@ -3,4 +3,4 @@ This was a presentation for Pruning in UVIC AI club. This repository includes th
 
 The code is in PyTorch.
 
-The ```pytorch/pytorch:1.13.1-cuda11.6-cudnn8``` docker iamge has been used for this repository.
+The ```pytorch/pytorch:1.13.1-cuda11.6-cudnn8``` docker image has been used for this repository.
